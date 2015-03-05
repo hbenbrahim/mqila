@@ -7,8 +7,15 @@
 }
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Champagne', sans-serif;
 }
+
+.carousel {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
 
 nav a {
 	position: relative;
@@ -19,9 +26,9 @@ nav a {
 	text-decoration: none;
 	text-transform: uppercase;
 	letter-spacing: .50px;
-	font-weight: 400;
+	font-weight: 500;
 	text-shadow: 0 0 1px rgba(255,255,255,0.3);
-	font-size: .95em;
+	font-size: 1.1em;
 }
 
 nav a:hover,
